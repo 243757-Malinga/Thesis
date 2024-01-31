@@ -1,0 +1,26 @@
+Transformer Neural Networks for Natural Language Processing
+
+This master's thesis aims to apply Transformer Neural Networks to Natural Language Processing tasks,
+ specifically focusing on text summarization,
+ code generation and question-answering. The objectives of the thesis are as follows:
+
+Semester project 1
+
+- Reviewing the state-of-the-art Transformer Neural Networks used in natural language processing.
+ This involves studying existing approaches and understanding their application and performance.
+- Comparing the effectiveness and performance of Transformer Neural Networks with traditional Neural Networks in
+ the context of natural language processing tasks.
+- Developing and implementing deep learning models based on Transformer Neural Networks for one natural language processing task,
+ text summarization.
+
+Semester project 2
+
+- Developing and implementing deep learning models based on Transformer Neural Networks for multiple natural language processing tasks,
+ such as code generation and question-answering.
+- Evaluating and comparing the performance of the developed models on various real-world datasets. 
+- Evaluating the proposed model and comparing its performance with other models in the literature.
+
+Literature: 
+Rothman, Denis, and Antonio Gulli. Transformers for Natural Language Processing: Build, train, and fine-tune deep neural network architectures for NLP with Python, PyTorch, TensorFlow, BERT, and GPT-3. Packt Publishing Ltd, 2022.
+Lewis Tunstall, Leandro von Werra, Thomas Wolf: Natural Language Processing with Transformers, Revised Edition, O'Reilly Media, Inc., 2022.
+Kalyan, Katikapalli Subramanyam, Ajit Rajasekharan, and Sivanesan Sangeetha. "Ammus: A survey of transformer-based pretrained models in natural language processing." arXiv preprint arXiv:2108.05542 (2021).

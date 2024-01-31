@@ -1,0 +1,9 @@
+22.04.24 (tentatively): The final draft of the thesis should be sent to all the supervisors a month before the final submission.
+22.05.24: The deadline for submitting the final thesis into the university's system.
+06.06.24: Thesis defense and oral examination (several questions from the selected subjects).
+
+We have also tentatively set internal milestones that were listed in Malinga's slides yesterday (slightly edited):
+
+23.02.24: Prepare the section on NLP methods and implement the necessary functionality of the prototype.
+29.03.24: Prepare the section on pre-trained LLMs and fine-tune the prototype on relevant data.
+22.04.24: Prepare the chapter describing the implementation and polish the code (bug fixing, etc).
